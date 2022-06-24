@@ -6,3 +6,6 @@
  
  The project also included a bonus part which required optimizing the program so that it can solve a board of any size, not just 4x4, which we have also implemented. This bonus implementation along with its technical report can be found in this repository as the files entitled [minesweeper_robot_bonus](https://github.com/omarhesham02/Minesweeper-Robot/blob/main/minesweeper_robot_bonus.hs) and [Minesweeper Robot Report - Bonus Implementation](https://github.com/omarhesham02/Minesweeper-Robot/blob/main/Minesweeper%20Robot%20Report%20-%20Bonus%20Implementation.pdf) respectively.
  
+ 
+ Please ignore the comical screenshots of game runs in both reports. They were a requirement for the project reports. I do apologize for any damage inflicted on your eyes as a result :).
+ 
